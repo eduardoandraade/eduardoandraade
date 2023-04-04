@@ -2,7 +2,7 @@
 
 #### Sou desenvolvedor front-end, comecei meus estudos em julho de 2022 e trabalhei como vendedor por 5 anos, onde ganhei importantes habilidades de comunicação, organização e liderança. Neste ano, me formo na faculdade de Marketing.
 
-#### Este perfil é uma demonstração dos projetos criados durante o meu período de estudos e para alguns trabalhos freenlancer, que tiveram como objetivo aprimorar minhas habilidades tecnicas de desenvolvimento. Busco constantemente por novas formas de melhorar meus conhecimentos tecnicos e habilidades profissionais.
+#### Este perfil é uma demonstração dos projetos criados durante o meu período de estudos e também para alguns trabalhos freenlancer, que tiveram como objetivo aprimorar minhas habilidades tecnicas de desenvolvimento. Busco constantemente por novas formas de melhorar meus conhecimentos tecnicos e habilidades profissionais.
 
 #### Obrigado por visitar o meu perfil! 🍀
 <div>
