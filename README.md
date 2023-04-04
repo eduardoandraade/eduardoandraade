@@ -1,4 +1,4 @@
-### Olá pessoal 👋 Me chamo Eduardo Andrade
+### Olá pessoal, me chamo Eduardo Andrade ✌
 
 #### Sou desenvolvedor front-end, comecei meus estudos em julho de 2022 e trabalhei como vendedor por 5 anos, onde ganhei importantes habilidades de comunicação, organização e liderança. Neste ano, me formo na faculdade de Marketing.
 
@@ -24,7 +24,6 @@
   
   <img align="center" alt="Dudu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Dudu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Dudu-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Dudu-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
   <img align="center" alt="Dudu-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Dudu-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
