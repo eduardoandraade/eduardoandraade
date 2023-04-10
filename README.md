@@ -7,15 +7,6 @@
 #### Obrigado por visitar o meu perfil! 🍀
 <div>
 
-### Detalhes
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoandraade&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### Linguagens utilizadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoandraade&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
 
 ### Tecnologias
 
