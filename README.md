@@ -1,6 +1,6 @@
 ### Olá pessoal, me chamo Eduardo Andrade ✌
 
-#### Sou desenvolvedor front-end, comecei meus estudos em julho de 2022 e trabalhei como vendedor por 5 anos, onde ganhei importantes habilidades de comunicação, organização e liderança. Neste ano, me formo na faculdade de Marketing.
+#### Sou desenvolvedor front-end, comecei meus estudos em julho de 2022 e trabalhei como vendedor por 5 anos, onde ganhei importantes habilidades de comunicação, organização e criatividade para resolver problemas. Neste ano, me formo na faculdade de Marketing.
 
 #### Este perfil é uma demonstração da construção dos meus projetos criados durante o meu período de estudos e também para alguns trabalhos free lancer, que tiveram como objetivo aprimorar minhas habilidades tecnicas de desenvolvimento. Busco constantemente por novas formas de melhorar meus conhecimentos tecnicos e habilidades profissionais.
 
