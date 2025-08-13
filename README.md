@@ -20,7 +20,7 @@ I’m a front-end developer specializing in **Shopify & Liquid**, crafting and s
   <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Shopify" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg">
+  <img align="center" alt="Shopify" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ58f__Hs5QwGWIEcsawDwW1o5IQzaYNPONhQ&s">
 </div>
 
 ---
